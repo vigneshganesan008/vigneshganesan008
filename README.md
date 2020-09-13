@@ -15,5 +15,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/vigneshganesan-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vigneshganesan-" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/uciuzac8zehtdbnfhhthszua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uciuzac8zehtdbnfhhthszua" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCiuZAc8ZehtDBnFHHthszUA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCiuZAc8ZehtDBnFHHthszUA" height="30" width="30" /></a>
 </p>
