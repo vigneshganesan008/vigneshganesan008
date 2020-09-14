@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Ganesan</h1>
-<p align="center"> <img src="https://octodex.github.com/images/yaktocat.png" alt="vignesh-ganesan-008" /> </p>
+<p align="center"> <img src="https://octodex.github.com/images/yaktocat.png" alt="vignesh-ganesan-008" height=300/> </p>
 
 <h3 align="center">I'm a tech enthusiast, a football player and a student, who is currently pursuing an Integrated masters degree in computer science.</h3>
 
