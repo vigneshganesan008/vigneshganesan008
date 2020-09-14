@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Ganesan</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vignesh-ganesan-008" alt="vignesh-ganesan-008" /> </p>
+
 <h3 align="center">I'm a tech enthusiast, a football player and a student, who is currently pursuing an Integrated masters degree in computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-ganesan-008" alt="vignesh-ganesan-008" /> </p>
