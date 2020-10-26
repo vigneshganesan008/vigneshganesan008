@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-ganesan-008" alt="vignesh-ganesan-008" /> </p>
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **vicky08rockz@gmail.com**
 
