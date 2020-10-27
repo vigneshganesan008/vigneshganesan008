@@ -37,7 +37,7 @@
 </p>
 
 <hr/>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-ganesan-008&layout=compact&hide=html&theme=dark" alt="vignesh-ganesan-008"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-ganesan-008&show_icons=true&count_private=true&line_height=21&theme=dark" alt="vignesh-ganesan-008"/>
 </p>
