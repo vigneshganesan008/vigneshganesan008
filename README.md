@@ -18,6 +18,7 @@
 
 
 <h2 align="left">Languages and Tools:</h2>
+<hr/>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -37,8 +38,8 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-ganesan-008&layout=compact&hide=html" alt="vignesh-ganesan-008"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-ganesan-008&show_icons=true&count_private=true&line_height=21" alt="vignesh-ganesan-008"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-ganesan-008&layout=compact&hide=html&theme=dark" alt="vignesh-ganesan-008"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-ganesan-008&show_icons=true&count_private=true&line_height=21&theme=dark" alt="vignesh-ganesan-008"/>
 </p>
 
 <p align="center">
