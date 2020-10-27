@@ -48,6 +48,6 @@
   </a>
   &nbsp;
   <a href="https://www.youtube.com/channel/UCiuZAc8ZehtDBnFHHthszUA" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCiuZAc8ZehtDBnFHHthszUA" height="30" width="30" />
+    <img align="center" src="https://png2.cleanpng.com/sh/34ce1d605d76862e9bf0b51e904f7340/L0KzQYm3VcA6N5Jwj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TglwfaV6etc2aXPyfn75jCVvbF5xh9l4LXTog7rujr02aZc3eqsCY0XnQra9Wb43OWU7SaYDMEG4QoaBVcY3O2c4UKMCLoDxd1==/kisspng-computer-icons-youtube-icon-round-logo-design-5af2b97c5d2e69.6146148015258566363817.png" alt="UCiuZAc8ZehtDBnFHHthszUA" height="30" width="30" />
   </a>
 </p>
