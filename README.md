@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vignesh Ganesan</h1>
 
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=vignesh-ganesan-008" alt="vignesh-ganesan-008"/> 
+</p>
+
 <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1787323/screenshots/6371250/lazy_programmer_dribbble-02_2x.png" alt="vignesh-ganesan-008" height=350/> 
 </p>
 
 <h3 align="center">An upcoming Software Developer, tech enthusiast and football player from India.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vignesh-ganesan-008" alt="vignesh-ganesan-008"/> 
-</p>
+<hr/>
 
 - 🌱 I’m currently learning **Django**
 
