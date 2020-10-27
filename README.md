@@ -16,7 +16,7 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-ganesan-008&layout=compact&hide=html" alt="vignesh-ganesan-008"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-ganesan-008&show_icons=true&count_private=true" alt="vignesh-ganesan-008"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-ganesan-008&show_icons=true&count_private=true&line_height=21" alt="vignesh-ganesan-008"/>
 </p>
 
 <p align="center"><a href="https://linkedin.com/in/vigneshganesan-" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" alt="vigneshganesan-" height="30" width="30" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCiuZAc8ZehtDBnFHHthszUA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCiuZAc8ZehtDBnFHHthszUA" height="30" width="30" /></a></p>
