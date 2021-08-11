@@ -12,7 +12,7 @@
 
 <hr/>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **vicky08rockz@gmail.com**
 
