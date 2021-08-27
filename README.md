@@ -8,7 +8,7 @@
   <img src="https://cdn.dribbble.com/users/1787323/screenshots/6371250/lazy_programmer_dribbble-02_2x.png" alt="vignesh-ganesan-008" height=350/> 
 </p>
 
-<h3 align="center">An upcoming Software Developer, tech enthusiast and football player from India.</h3>
+<h3 align="center">An upcoming Software Developer and tech enthusiast from India.</h3>
 
 <hr/>
 
