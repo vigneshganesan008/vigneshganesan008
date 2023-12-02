@@ -8,5 +8,5 @@
 
 <img src="https://raw.githubusercontent.com/vigneshganesan008/vigneshganesan008/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
-[comment]: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshganesan008&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="vigneshganesan008" /></p>
+[comment]: <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshganesan008&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="vigneshganesan008" />
 
